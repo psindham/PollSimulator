@@ -9,6 +9,11 @@ Lab 1 Enterprise Computing Poll simulator
 6.After that click on **Poll result**.This will Displays the **Winner and Runner Up**.
 7.You can also View the Vote Summary from Index Page if you click on the **Vote Summary** link on the page
 
+**Presentation LOGIC IN VIEWS FOLDER**
+**Business LOGIC IN index.js FILE**
+
+
+
 **Index PAGE**
 ![image](https://user-images.githubusercontent.com/60171427/129471967-81caefc2-fe8e-4b53-9df7-681b82d3822a.png)
 
