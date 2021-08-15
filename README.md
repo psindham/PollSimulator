@@ -12,8 +12,6 @@ Lab 1 Enterprise Computing Poll simulator
 **Index PAGE**
 ![image](https://user-images.githubusercontent.com/60171427/129471967-81caefc2-fe8e-4b53-9df7-681b82d3822a.png)
 
-**POll RESULT**
-![image](https://user-images.githubusercontent.com/60171427/129471858-117effce-bd2c-4939-8daf-23e7927ad923.png)
 
 **Add candidate**
 ![image](https://user-images.githubusercontent.com/60171427/129471951-8bb1561f-5d4b-4502-8f43-17d1d28e8d16.png)
@@ -26,6 +24,10 @@ Lab 1 Enterprise Computing Poll simulator
 
 **IF I vote again with same ID**
 ![image](https://user-images.githubusercontent.com/60171427/129472025-c62a8649-681d-4a40-924b-0295a6603658.png)
+
+**POll RESULT**
+![image](https://user-images.githubusercontent.com/60171427/129471858-117effce-bd2c-4939-8daf-23e7927ad923.png)
+
 
 **Poll Summary**
 ![image](https://user-images.githubusercontent.com/60171427/129472067-a2d8e146-1f93-4b14-8ec6-acd277df145d.png)
